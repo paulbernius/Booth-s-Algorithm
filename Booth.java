@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 /*
 Paul Bernius
-A20296830
-CS 3443
 pgm-booth
 04/08/22
  */
