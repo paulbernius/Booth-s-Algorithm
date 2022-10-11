@@ -8,13 +8,6 @@ pgm-booth
  */
 
 /*
-I had to pass copies of arrays a lot because java is pass by value
-but when an array is passed, it passed the reference address to that array.
-So if an array is passed and modified in the method, it will be modified globally
-instead of just inside the function. To fix this I passed copies of the passed array.
- */
-
-/*
 References:
 https://www.youtube.com/watch?v=QFXaddi-Ag8&t=254s
  */
